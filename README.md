@@ -2,6 +2,8 @@
 
 A Java command-line application for simulating file system navigation and calculating directory sizes recursively.
 
+PPT Link: https://docs.google.com/presentation/d/11wlY9I1B3B7DGZEjILol8sBhacrGlIm8zrehgv6ramE/edit?usp=sharing
+
 ## Overview
 
 This project implements a hierarchical file system in memory with basic shell-like commands. I built it to demonstrate object-oriented design principles and recursive algorithms.
